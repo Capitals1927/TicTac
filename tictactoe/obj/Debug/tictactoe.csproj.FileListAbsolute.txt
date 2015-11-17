@@ -1,0 +1,12 @@
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\Vladislav\Desktop\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\Vladislav\Desktop\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\Vladislav\Desktop\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
